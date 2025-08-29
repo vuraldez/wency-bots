@@ -29,3 +29,10 @@ If you’re interested, just reach out and we can get your bot online quickly!
    
   
 </details>
+
+<details>
+  <summary>Command System</summary>
+
+  ![Menu Screenshot 1](Loading...)
+  
+</details>

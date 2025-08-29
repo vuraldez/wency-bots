@@ -17,5 +17,15 @@ If you’re interested, just reach out and we can get your bot online quickly!
   <summary>Menu Screenshots</summary>
 
   ![Menu Screenshot 1](https://raw.githubusercontent.com/vuraldez/wency-bots/main/assets/menus.png)
+  ![Menu Screenshot 1](https://raw.githubusercontent.com/vuraldez/wency-bots/main/assets/menu2.png)
+  ![Menu Screenshot 1](https://raw.githubusercontent.com/vuraldez/wency-bots/main/assets/menu3.png)
+  ![Menu Screenshot 1](https://raw.githubusercontent.com/vuraldez/wency-bots/main/assets/menu4.png)
+  ![Menu Screenshot 1](https://raw.githubusercontent.com/vuraldez/wency-bots/main/assets/menu5.png)
+  ![Menu Screenshot 1](https://raw.githubusercontent.com/vuraldez/wency-bots/main/assets/menu6.png)
+  ![Menu Screenshot 1](https://raw.githubusercontent.com/vuraldez/wency-bots/main/assets/menu7.png)
+  ![Menu Screenshot 1](https://raw.githubusercontent.com/vuraldez/wency-bots/main/assets/menu8.png)
+  ![Menu Screenshot 1](https://raw.githubusercontent.com/vuraldez/wency-bots/main/assets/menu9.png)
+  ![Menu Screenshot 1](https://raw.githubusercontent.com/vuraldez/wency-bots/main/assets/menu10.png)
+   
   
 </details>

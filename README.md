@@ -16,6 +16,6 @@ If you’re interested, just reach out and we can get your bot online quickly!
 <details>
   <summary>Menu Screenshots</summary>
 
-  ![Menu Screenshot 1]([https://raw.githubusercontent.com/vuradez/wency-bots/main/assets/menus.png](https://github.com/vuraldez/wency-bots/blob/main/assets/menus.png?raw=true))
+  ![Menu Screenshot 1](https://raw.githubusercontent.com/vuraldez/wency-bots/main/assets/menus.png)
   
 </details>
